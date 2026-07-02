@@ -48,7 +48,6 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 - Programação assíncrona com `async/await`
 - Tratamento de erros em JavaScript
 
-## 👨‍💻 Autor
 
 ## 👨‍💻 Autor
 
